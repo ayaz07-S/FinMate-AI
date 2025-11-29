@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+prophet
+numpy
+pandas
+scipy
+firebase-admin
+python-dotenv
+requests
+pytest
+httpx
+pydantic
+python-multipart
