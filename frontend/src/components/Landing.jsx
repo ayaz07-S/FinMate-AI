@@ -241,7 +241,7 @@ const FinMateAI = () => {
           headers: {
             'Content-Type': 'application/json',
           },
-          body: JSON.stringify({ user_id: 'rahul' }),
+          body: JSON.stringify({ user_id: 'demo_user' }),
         });
 
         if (response.ok) {
